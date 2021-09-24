@@ -20,11 +20,13 @@ This is a README file containing __**all of the information**__ you need to walk
 5. Receiving announcement
 
 # Tutorial Material
-
+ppt:https://docs.google.com/presentation/d/1eNKeg0weFjI3N1QsjsbHIeXe29N73lWkxeL8JBTqNpQ/edit#slide=id.p
 # Learning Material
-
+Basic:  Art Of Electronic: https://drive.google.com/drive/u/0/folders/1tVVMuizvSUU1SOyuj11jMok0tvOC3C2d
+Stm32 Related: https://drive.google.com/drive/u/0/folders/1ZPf3cifBkrkoUY6o3QlE3-l5VoCi3KcQ
 # Tutorial Schedule
-
+  2 Tutorial Per Week, in total 4 weeks 
+  each tutorial 1.5hrs
 # Assignment Arrangement
 
 # Receiving Announcement
