@@ -31,13 +31,11 @@ Stm32 Related: https://drive.google.com/drive/u/0/folders/1ZPf3cifBkrkoUY6o3QlE3
 # Assignment Arrangement
   Like a progress report, submit your own progress before the Sun every week
 # Receiving Announcement
-  Before the Tutorial start, please download KiCad and stn32CubeMX 
+  Before the Tutorial start, please download KiCad and stm32CubeMX 
   KiCad: https://www.kicad.org/download/ 
-  
-  All platform can use KiCad 
-  
   ****PLEASE USE ENGLISH VER FOR KICAD****
-  We will use ver5.1.10 
+  /nAll platform can use KiCad 
+  /nWe will use ver5.1.10 
   
   stm32CubeMX: https://www.st.com/en/development-tools/stm32cubemx.html
   We will use ver6.3.0 
