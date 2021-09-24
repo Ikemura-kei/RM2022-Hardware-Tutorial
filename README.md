@@ -33,7 +33,9 @@ Stm32 Related: https://drive.google.com/drive/u/0/folders/1ZPf3cifBkrkoUY6o3QlE3
 # Receiving Announcement
   Before the Tutorial start, please download KiCad and stn32CubeMX 
   KiCad: https://www.kicad.org/download/ 
+  
   All platform can use KiCad 
+  
   ****PLEASE USE ENGLISH VER FOR KICAD****
   We will use ver5.1.10 
   
