@@ -19,6 +19,12 @@ This is a README file containing __**all of the information**__ you need to walk
 4. Assignment arrangement
 5. Receiving announcement
 
+# Time schedule
+
+Every Tue from 7-8:30 
+      Thur from 8-9:30
+      
+     
 # Tutorial Material
 ppt:https://docs.google.com/presentation/d/1eNKeg0weFjI3N1QsjsbHIeXe29N73lWkxeL8JBTqNpQ/edit#slide=id.p
 # Learning Material
