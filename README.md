@@ -24,7 +24,8 @@ This is a README file containing __**all of the information**__ you need to walk
 Every Tue from 7-8:30 
       Thur from 8-9:30
       
-     
+# Tutorial Recording 
+> https://drive.google.com/drive/folders/1KR181GV-rQo-z9qhRv9n5vZgEeNifd1O?usp=sharing
 # Tutorial Material
 ppt:https://docs.google.com/presentation/d/1eNKeg0weFjI3N1QsjsbHIeXe29N73lWkxeL8JBTqNpQ/edit#slide=id.p
 # Learning Material
