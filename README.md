@@ -37,6 +37,8 @@ Stm32 Related: https://drive.google.com/drive/u/0/folders/1ZPf3cifBkrkoUY6o3QlE3
   each tutorial 1.5hrs
 # Assignment Arrangement
   Like a progress report, submit your own progress before the Sun every week
+  Upload your KiCad file + stm32cubeMX( .ioc) and zip them to google dive, one dive, even github etc. 
+  Send me the link so that I can download and take a look 
 # Receiving Announcement
   Before the Tutorial start, please download KiCad and stm32CubeMX 
   
