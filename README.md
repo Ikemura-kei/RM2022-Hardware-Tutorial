@@ -46,6 +46,8 @@ Stm32 Related: https://drive.google.com/drive/u/0/folders/1ZPf3cifBkrkoUY6o3QlE3
   >All platform can use KiCad 
   >
   >We will use ver5.1.10 
+  >For the people using Mac OS, You may encounter library cannot open problem.
+  >Please take a look on: https://www.google.com/urlsa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiYi42yu6TzAhWSZd4KHak8BFcQFnoECAkQAQ&url=https%3A%2F%2Fforum.kicad.info%2Ft%2Fadd-default-libraries-all-at-once-solved%2F26130&usg=AOvVaw0f8UTYlIVPa8pYnkt-LNYY
 
   
   stm32CubeMX: https://www.st.com/en/development-tools/stm32cubemx.html
