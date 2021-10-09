@@ -19,6 +19,13 @@ This is a README file containing __**all of the information**__ you need to walk
 4. Assignment arrangement
 5. Receiving announcement
 
+
+# FINAL ASSIGNMENT 
+>>Submit ALL your KiCad file (with gaber and drill file) +ioc file 
+>>
+>>Deadline: 14 Oct 2022 23:59 
+>>
+>>**REMINDER IF U SUBMIT EARILER I MAY HELP YOU TO CHECK YOUR DESGIN**
 # Time schedule
 
 Every Tue from 7-8:30 
